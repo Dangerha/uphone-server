@@ -15,7 +15,7 @@ Target中所需配置如下：
 
 1、  TARGET -> General -> Frameworks,Libraries,and Embedded Contend -> UPhoneSDK.framework 选择 Embed & Sign.
 
-2、  TARGET->Build Settings -> Build Options-> Enable Bitcode 选择 NO.
+2、  TARGET->Build Settings -> Build Options-> Enable Bitcode 选择  NO.
 
 #### Info.plist文件配置
 在工程文件下的 Info.plist文件中加入以下代码：
